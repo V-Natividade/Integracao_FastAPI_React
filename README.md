@@ -8,10 +8,10 @@ O repositório tem como objetivo consumir através de uma aplicação React uma 
 - [Principais tecnologias utilizadas](#Principais-tecnologias-utilizadas)
 - [Inicialização](#Inicialização)
 - [Migrando tabela](#Migrando-tabela)
-- [Executando os testes backend](#Executando-os-testes-backendo)
-- [Documentação API](#Consultando-documentação)
+- [Executando os testes backend](#Executando-os-testes-backend)
+- [Documentação API](#Documentação-API)
 - [Validando cliente](#Validando-cliente)
-- [Modificando os servidores](#Moficando-os-servidores)
+- [Modificando os servidores](#Modificando-os-servidores)
 
 ## Principais tecnologias utilizadas
 
